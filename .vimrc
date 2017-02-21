@@ -1,5 +1,5 @@
 syntax on
-colorscheme sprint-night
+colorscheme spring-night
 
 set smarttab
 set showcmd

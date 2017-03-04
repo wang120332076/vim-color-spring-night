@@ -4,6 +4,8 @@ colorscheme spring-night
 set smarttab
 set showcmd
 set foldmethod=syntax
+set backspace=2
+set ruler
 
 filetype plugin on
 filetype indent on

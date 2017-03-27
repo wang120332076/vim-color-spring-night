@@ -6,6 +6,8 @@ set showcmd
 set foldmethod=syntax
 set backspace=2
 set ruler
+set incsearch
+set hlsearch
 
 filetype plugin on
 filetype indent on
